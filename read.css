@@ -1,0 +1,13 @@
+.style{
+    color: rgb(126, 34, 187);
+    font-weight: bolder;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.justify{
+    text-align: justify;
+}
+.font-bolder-italic{
+    font-weight: bolder;
+    font-style: italic;
+}
